@@ -29,7 +29,8 @@ public class Death_Colider : MonoBehaviour
         "Fatality!",
         "Kvakazyabra wins!",
         "へ‿(ツ)‿ㄏ",
-        "Срака не подгорела?"
+        "Срака не подгорела?",
+        "На твоем месте я бы сходил к врачу"
     };
     private string fraze;
 
