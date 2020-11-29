@@ -1,5 +1,8 @@
 
 /Build/
+/Library/
+/Temp/
 .collabignore
 .vs
 .vscode
+.meta
